@@ -1,0 +1,12 @@
+{
+    "name": "jtproductions/mailtrap-assertions",
+    "description": "Assertions for PHPUnit to use with Mailtrap mailbox",
+    "authors": [
+        {
+            "name": "Jurgen Thijs",
+            "email": "jurgen@jt-productions.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
