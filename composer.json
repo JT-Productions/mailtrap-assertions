@@ -1,12 +1,26 @@
 {
-    "name": "jtproductions/mailtrap-assertions",
-    "description": "Assertions for PHPUnit to use with Mailtrap mailbox",
-    "authors": [
-        {
-            "name": "Jurgen Thijs",
-            "email": "jurgen@jt-productions.be"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "jtproductions/mailtrap-assertions",
+  "description": "Assertions for PHPUnit to use with Mailtrap mailbox",
+  "authors": [
+    {
+      "name": "Jurgen Thijs",
+      "email": "jurgen@jt-productions.be"
+    }
+  ],
+  "keywords": [
+    "phpunit",
+    "mailtrap"
+  ],
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "guzzlehttp/guzzle": "^7.2",
+    "php": "^7.3",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Jtproductions\\MailtrapAssertions\\": "src"
+    }
+  }
 }
