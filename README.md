@@ -1,5 +1,11 @@
 # Mailtrap assertsions to use in phpunit tests
 
+<img src="https://img.shields.io/github/v/release/JT-Productions/mailtrap-assertions" />
+<img src="https://img.shields.io/github/license/JT-Productions/mailtrap-assertions" />
+<img src="https://img.shields.io/github/downloads/JT-Productions/mailtrap-assertions/total?color=dark-green" />
+<img src="https://img.shields.io/github/last-commit/JT-Productions/mailtrap-assertions" />
+<img src="https://img.shields.io/github/issues/JT-Productions/mailtrap-assertions">
+
 The mailtrap assertiosn is to TDD your Laravel Application to check if mails has been send to mailtrap.
 
 ## Installation
